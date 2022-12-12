@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "image-downloader": "^3.5.0",
     "jimp": "^0.9.3",
     "puppeteer": "^2.1.1",
